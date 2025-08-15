@@ -159,7 +159,7 @@ describe("Cypress Simulator - A11y Checks", () => {
 
 describe("Cypress Simulator - Captcha", () => {
   beforeEach(() => {
-    cy.visit("./src/index.html&chancesOfError=0");
+    cy.visit("./src/index.html");
     cy.contains("button", "Login").click();
     cy.injectAxe();
   });
