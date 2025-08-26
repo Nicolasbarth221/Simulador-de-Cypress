@@ -24,5 +24,5 @@ O objetivo é demonstrar como criar testes estáveis, rápidos e confiáveis, pr
 
 - [Cypress](https://www.cypress.io/) – Framework de testes de ponta a ponta.
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) – Linguagem principal do projeto.
-- Integração com **CI/CD** (ex.: GitHub Actions, CircleCI ou similares).
+- Integração com **CI/CD** (ex.: GitHub Actions, CircleCI).
 
